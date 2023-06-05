@@ -7,5 +7,7 @@ Files include:
 GetConsoleHost.ps1 - A function that detects if you are running in an editor or the PS console.  I use it to enable my
                      "write-host" statements when using VS Code.
                  
-GenerateGuid.ps1 - Use to create new random GUID                 
+GenerateGuid.ps1 - Use to create new random GUID        
+
+LoadConfig.ps1 - A function to pull variables from an external XML file.
 
